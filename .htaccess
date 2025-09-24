@@ -1,0 +1,16 @@
+# /california-zaps/.htaccess
+RewriteEngine On
+RewriteBase /california-zaps/
+
+# Servir archivos/carpetas existentes tal cual
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Todo lo demás va a index.php del proyecto
+RewriteRule ^ index.php [L,QSA]
+
+# (OPCIONAL) redirigir a www SOLO en producción, nunca en localhost
+#RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)(:\d+)?$ [NC]
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
