@@ -1,6 +1,8 @@
 <!-- Main Content -->
  <div id="main-content" class="site-main clearfix" id="home">
-     <section class="slider bg-slider-4" id="coleccion-escolar">
+    
+ 
+  <section class="slider bg-slider-4" id="coleccion-escolar">
          <div class="slider-inner">
              <div class="swiper-container slider-slider">
                  <div class="swiper-wrapper">
@@ -29,7 +31,9 @@
                  <div class="swiper-pagination-slider"></div>
              </div>
          </div>
-     </section>
+     </section> 
+
+     <!-- Vista de Categoria de Productos -->
      <section class="category themesflat-section">
          <h3 class="themesflat-heading text-center category-heading">Para todas las edades</h3>
          <div class="category-wrap">
@@ -105,9 +109,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/16.webp">
-                                 <img class="img-default" src="assets/img/products/16.webp" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/16.webp" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/18.jpg">
+                                 <img class="img-default" src="assets/img/products/18.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/18.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -362,40 +366,125 @@
                      </div>
                  </div>
              </div>
-             <div class="row" style="margin-top: 4rem;">
-                 <div class="col-12 col-md-6">
-                     <iframe
-                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2185.3086305062507!2d-109.93552664599922!3d22.904650294248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a642d59f8f7%3A0x9a2ebfc593761cbd!2sCalifornia%20Zap&#39;s!5e0!3m2!1sen!2smx!4v1707425027303!5m2!1sen!2smx"
-                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                         referrerpolicy="no-referrer-when-downgrade"></iframe>
+     
+             <!-- ====== SUCURSALES  ====== -->
+<div class="row" style="margin-top: 2rem;">
+  <div class="col-12">
+    <ul class="nav nav-tabs" id="tabs-sucursales" role="tablist" style="gap:8px;">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="tab-csl" data-bs-toggle="tab" data-bs-target="#pane-csl" type="button" role="tab" aria-controls="pane-csl" aria-selected="true">
+          Cabo San Lucas
+        </button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="tab-sjc" data-bs-toggle="tab" data-bs-target="#pane-sjc" type="button" role="tab" aria-controls="pane-sjc" aria-selected="false">
+          San José del Cabo
+        </button>
+      </li>
+    </ul>
+  </div>
 
-                     <iframe
-                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5198.157841201511!2d-109.91395373169914!3d22.889285982253092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b73d25cd461%3A0xfb4989b05a321d50!2sCalifornia%20Zap&#39;s%20%7C%20Centro%20CSL!5e0!3m2!1ses!2smx!4v1712361930892!5m2!1ses!2smx"
-                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                         referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <div class="col-12">
+    <div class="tab-content" id="tabs-sucursales-content" style="padding-top: 1rem;">
 
-                     <iframe
-                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2122.6516376735563!2d-109.92950049371674!3d22.933089578724175!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b1ea2b8a9b3%3A0xf40fb937c51fd698!2sCalifornia%20Zap&#39;s%20-%20Plaza%20Caribe!5e0!3m2!1ses!2smx!4v1712361998474!5m2!1ses!2smx"
-                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                         referrerpolicy="no-referrer-when-downgrade"></iframe>
-                 </div>
-                 <div class="col-12 col-md-6">
-                     <iframe
-                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2185.3367072835927!2d-109.93548935280538!3d22.902907951876273!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a64558c2d5b%3A0x2907765be0358010!2sCalifornia%20Zaps!5e0!3m2!1ses!2smx!4v1712362035352!5m2!1ses!2smx"
-                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                         referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <!-- ========== CABO SAN LUCAS ========== -->
+      <div class="tab-pane fade show active" id="pane-csl" role="tabpanel" aria-labelledby="tab-csl">
+        <div class="row g-4">
+          <div class="col-12 col-md-6">
+            <div class="branch-card">
+              <h5 class="mb-2">California Zap’s — (CSL)</h5>
+              <div class="map-embed">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2185.3086305062507!2d-109.93552664599922!3d22.904650294248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a642d59f8f7%3A0x9a2ebfc593761cbd!2sCalifornia%20Zap&#39;s!5e0!3m2!1sen!2smx!4v1707425027303!5m2!1sen!2smx"
+                  width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=22.90465,-109.93552" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+          </div>
 
-                     <iframe
-                         src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d917.6390648115804!2d-109.70511523952555!3d23.07672448144926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2smx!4v1712362115690!5m2!1sen!2smx"
-                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                         referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div class="col-12 col-md-6">
+            <div class="branch-card">
+              <h5 class="mb-2">California Zap’s | Centro CSL</h5>
+              <div class="map-embed">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5198.157841201511!2d-109.91395373169914!3d22.889285982253092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b73d25cd461%3A0xfb4989b05a321d50!2sCalifornia%20Zap&#39;s%20%7C%20Centro%20CSL!5e0!3m2!1ses!2smx!4v1712361930892!5m2!1ses!2smx"
+                  width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=22.889285,-109.913954" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+          </div>
 
-                     <iframe
-                         src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d944.27081661787!2d-109.7141698087418!3d23.113304970059318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2smx!4v1712362168519!5m2!1sen!2smx"
-                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                         referrerpolicy="no-referrer-when-downgrade"></iframe>
-                 </div>
-             </div>
+          <div class="col-12 col-md-6">
+            <div class="branch-card">
+              <h5 class="mb-2">California Zap’s — Plaza Caribe (CSL)</h5>
+              <div class="map-embed">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2122.6516376735563!2d-109.92950049371674!3d22.933089578724175!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b1ea2b8a9b3%3A0xf40fb937c51fd698!2sCalifornia%20Zap&#39;s%20-%20Plaza%20Caribe!5e0!3m2!1ses!2smx!4v1712361998474!5m2!1ses!2smx"
+                  width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=22.933089,-109.9295" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-6">
+            <div class="branch-card">
+              <h5 class="mb-2">California Zaps — (CSL)</h5>
+              <div class="map-embed">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2185.3367072835927!2d-109.93548935280538!3d22.902907951876273!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a64558c2d5b%3A0x2907765be0358010!2sCalifornia%20Zaps!5e0!3m2!1ses!2smx!4v1712362035352!5m2!1ses!2smx"
+                  width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=22.902907,-109.935489" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+       
+      <!-- ========== SAN JOSÉ DEL CABO ========== -->
+      <div class="tab-pane fade" id="pane-sjc" role="tabpanel" aria-labelledby="tab-sjc">
+        <div class="row g-4">
+          <div class="col-12 col-md-6">
+            <div class="branch-card">
+              <h5 class="mb-2">California Zap’s — (SJC)</h5>
+              <div class="map-embed">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d917.6390648115804!2d-109.70511523952555!3d23.07672448144926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2smx!4v1712362115690!5m2!1sen!2smx"
+                  width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=23.076724,-109.705115" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-6">
+            <div class="branch-card">
+              <h5 class="mb-2">California Zap’s — (SJC)</h5>
+              <div class="map-embed">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4517.036311619557!2d-109.70054425698133!3d23.060892700000018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d309b6ea5%3A0x17681faef181c793!2sCalifornia%20Zap%C2%B4s%20%7C%20C.%20Manuel%20Doblado!5e1!3m2!1ses-419!2smx!4v1758756897319!5m2!1ses-419!2smx"
+                  width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=23.113305,-109.71417" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+     
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
          </div>
      </section>
 
@@ -455,4 +544,7 @@
              </div>
          </div>
      </section>
+
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
  </div><!-- /#main-content -->

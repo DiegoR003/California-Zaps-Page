@@ -3016,3 +3016,45 @@ h6 a {
 .logo-index{
   width: 20rem;
 }
+
+/* Funcion de los botones de los mapas
+-------------------------------------------------------------- */
+
+  /* Forzamos comportamiento de pestañas */
+  .tab-content .tab-pane{ display:none; }
+  .tab-content .tab-pane.show{ display:block; }
+
+  /* Estilos mínimos de estado activo para los botones */
+  .nav-tabs .nav-link{ background:#f2f2f2; border:0; padding:.5rem .8rem; border-radius:6px; font-weight:600; }
+  .nav-tabs .nav-link.active{ background:#e53935; color:#fff; }
+
+  .branch-card{padding:14px;border:1px solid rgba(0,0,0,.08);border-radius:12px;background:#fff;box-shadow:0 6px 18px rgba(0,0,0,.05);}
+  .map-embed{position:relative;overflow:hidden;border-radius:10px;}
+  .map-embed iframe{display:block;width:100%;height:320px;}
+  @media (max-width: 575.98px){ .map-embed iframe{height:280px;} }
+
+  /* === Productos: cuadrícula consistente === */
+.product .product-item .product-img{
+  position: relative;
+  overflow: hidden;
+  
+  background: #f7f7f7;
+  aspect-ratio: 1 / 1;      /* cuadradas; cambia a 4 / 3 si prefieres 4:3 */
+}
+
+.product .product-item .product-img a{
+  display:block; width:100%; height:100%;
+}
+
+.product .product-item .product-img img{
+  position:absolute; inset:0;
+  width:100%; height:100%;
+  object-fit: cover;         /* recorta sin deformar */
+  display:block;
+  transition: transform .35s ease, opacity .35s ease;
+}
+
+/* Efecto hover opcional (imagen secundaria) */
+.product .product-item .product-img .img-hover{ opacity:0; }
+.product .product-item .product-img:hover .img-hover{ opacity:1; }
+.product .product-item .product-img:hover .img-default{ transform: scale(1.04); }

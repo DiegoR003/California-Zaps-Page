@@ -276,3 +276,38 @@
     });
     
 })(jQuery);
+
+
+ // Funcion para los botones de las pestaña en los mapas
+(function(){
+  
+  const tabButtons = document.querySelectorAll('#tabs-sucursales [data-bs-target], #tabs-sucursales [data-target]');
+  if(!tabButtons.length) return;
+
+  function getTarget(btn){
+    return btn.getAttribute('data-bs-target') || btn.getAttribute('data-target');
+  }
+  function activate(btn){
+    // activar boton
+    tabButtons.forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+
+    // activar pane
+    const target = getTarget(btn);
+    const panes = document.querySelectorAll('#tabs-sucursales-content .tab-pane');
+    panes.forEach(p=>p.classList.remove('show','active'));
+    const pane = document.querySelector(target);
+    if(pane){ pane.classList.add('show','active'); }
+  }
+
+  // click handler
+  tabButtons.forEach(btn=>{
+    btn.addEventListener('click', function(e){
+      e.preventDefault();
+      activate(this);
+    });
+  });
+
+  // estado inicial
+  activate(tabButtons[0]);
+})();
