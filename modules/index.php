@@ -267,9 +267,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/08.jpg">
-                                 <img class="img-default" src="assets/img/products/08.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/08.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/33.jpg">
+                                 <img class="img-default" src="assets/img/products/33.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/33.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
