@@ -39,7 +39,7 @@
          <div class="category-wrap">
              <div class="category-inner">
                  <div class="category-item wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">
-                     <img src="assets/img/category/06.jpg" alt="Image">
+                     <img src="assets/img/category/13.jpg" alt="Image">
                      <div class="category-content">
                          <h4 class="category-title"><a href="#contact">Caballeros</a> </h4>
                      </div>
