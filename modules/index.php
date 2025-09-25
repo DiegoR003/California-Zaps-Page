@@ -82,8 +82,7 @@
 
                          Sumérgete en un ambiente moderno y acogedor. Nuestra colección escolar y casual ofrece calzado cómodo y durable para todas las edades, con estilos actuales y precios accesibles.
                          Desde zapatos formales que te destacarán en cualquier evento hasta opciones casuales que te brindarán confort durante tus días de relax, California Zap's tiene el par perfecto para ti.
-                         destacarán en cualquier evento hasta opciones casuales que te brindarán confort durante tus
-                         días de relax, California Zap's tiene el par perfecto para ti.
+                         
                      </p>
                  </div>
                  <div class="instagram-img wow fadeInRight">
@@ -120,9 +119,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/17.webp">
-                                 <img class="img-default" src="assets/img/products/17.webp" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/17.webp" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/19.jpg">
+                                 <img class="img-default" src="assets/img/products/19.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/19.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -131,9 +130,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/14.webp">
-                                 <img class="img-default" src="assets/img/products/14.webp" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/14.webp" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/20.jpg">
+                                 <img class="img-default" src="assets/img/products/20.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/20.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -142,9 +141,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/15.webp">
-                                 <img class="img-default" src="assets/img/products/15.webp" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/15.webp" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/21.jpg">
+                                 <img class="img-default" src="assets/img/products/21.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/21.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -153,9 +152,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/10.jpg">
-                                 <img class="img-default" src="assets/img/products/10.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/10.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/22.jpg">
+                                 <img class="img-default" src="assets/img/products/22.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/22.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -164,9 +163,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/11.jpg">
-                                 <img class="img-default" src="assets/img/products/11.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/11.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/23.jpg">
+                                 <img class="img-default" src="assets/img/products/23.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/23.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -175,9 +174,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/12.jpg">
-                                 <img class="img-default" src="assets/img/products/12.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/12.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/24.jpg">
+                                 <img class="img-default" src="assets/img/products/24.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/24.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -186,9 +185,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/13.jpg">
-                                 <img class="img-default" src="assets/img/products/13.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/13.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/25.jpg">
+                                 <img class="img-default" src="assets/img/products/25.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/25.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -198,9 +197,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/01.jpg">
-                                 <img class="img-default" src="assets/img/products/01.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/01.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/26.jpg">
+                                 <img class="img-default" src="assets/img/products/26.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/26.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -208,9 +207,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/02.jpg">
-                                 <img class="img-default" src="assets/img/products/02.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/02.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/27.jpg">
+                                 <img class="img-default" src="assets/img/products/27.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/27.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -218,9 +217,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/03.jpg">
-                                 <img class="img-default" src="assets/img/products/03.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/03.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/28.jpg">
+                                 <img class="img-default" src="assets/img/products/28.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/28.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -228,9 +227,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/04.jpg">
-                                 <img class="img-default" src="assets/img/products/04.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/04.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/29.jpg">
+                                 <img class="img-default" src="assets/img/products/29.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/29.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -238,9 +237,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/05.jpg">
-                                 <img class="img-default" src="assets/img/products/05.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/05.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/30.jpg">
+                                 <img class="img-default" src="assets/img/products/30.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/30.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -248,9 +247,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/06.jpg">
-                                 <img class="img-default" src="assets/img/products/06.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/06.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/31.jpg">
+                                 <img class="img-default" src="assets/img/products/31.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/31.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
@@ -258,9 +257,9 @@
                  <div class="col-md-3">
                      <div class="product-item wow fadeInUp">
                          <div class="product-img">
-                             <a title="Calzados de alta calidad" href="assets/img/products/07.jpg">
-                                 <img class="img-default" src="assets/img/products/07.jpg" alt="California Zap´s">
-                                 <img class="img-hover" src="assets/img/products/07.jpg" alt="California Zap´s">
+                             <a title="Calzados de alta calidad" href="assets/img/products/32.jpg">
+                                 <img class="img-default" src="assets/img/products/32.jpg" alt="California Zap´s">
+                                 <img class="img-hover" src="assets/img/products/32.jpg" alt="California Zap´s">
                              </a>
                          </div>
                      </div>
