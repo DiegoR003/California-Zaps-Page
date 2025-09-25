@@ -45,8 +45,8 @@
                      </div>
                  </div>
                  <div class="category-item wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
-                     <img src="assets/img/category/07.webp" alt="Image">
-                     <div class="category-content active">
+                     <img src="assets/img/category/12.jpg" alt="Image">
+                     <div class="category-content ">
                          <h4 class="category-title"><a href="#contact">Damas</a></h4>
                      </div>
                  </div>
@@ -71,6 +71,8 @@
              </div>
          </div>
      </section>
+
+     <!-- SECCIÓN SOBRE NOSOTROS -->
      <section class="instagram" style="margin-top: 6rem;" id="about">
          <div class="themesflat-container">
              <div class="instagram-inner">

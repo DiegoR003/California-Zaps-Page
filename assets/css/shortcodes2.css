@@ -1502,9 +1502,12 @@
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  
 }
 .category-item .category-content.active {
   width: 81%;
+  /* color: #304a93; */
+  background-color: #304a93;
 }
 .category-item .category-content {
   position: absolute;
