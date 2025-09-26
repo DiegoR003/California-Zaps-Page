@@ -315,7 +315,7 @@
              <div class="row justify-content-center align-items-center">
                  <div class="col-md-6">
                      <div class="contact-infor">
-                         <img src="assets/img/02.jpg" alt="Image" class="wow fadeInLeft">
+                         <img src="assets/img/03.jpg" alt="Image" class="wow fadeInLeft">
 
                      </div>
                  </div>
@@ -486,7 +486,7 @@
  </div>
      </section>
 
-        <!--  ========== SECCIÓN TESTIMONIOS  ========== -->
+        <!--  ========== SECCIÓN TESTIMONIOS ==========  -->
      <section class="testimonial" id="reviews">
          <div class="testimonial-inner">
              <div class="testimonial-wrap  wow fadeInLeft">
