@@ -22,6 +22,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
     <link rel="stylesheet"  href="assets/css/magnific-popup.css">
+   
 
     <!-- Favicon and Touch Icons  -->
     <link rel="shortcut icon" href="assets/icon/01.jpg">

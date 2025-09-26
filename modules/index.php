@@ -1,5 +1,5 @@
 
-
+<link rel="stylesheet" type="text/css" href="./assets/css/magnific-popup.css">
 
 <!-- Main Content -->
  <div id="main-content" class="site-main clearfix" id="home">
@@ -479,22 +479,14 @@
           </div>
         </div>
       </div>
-
-
-
-     
       </div>
     </div>
   </div>
 </div>
-
-
-
-
-         </div>
+ </div>
      </section>
 
-
+        <!--  ========== SECCIÓN TESTIMONIOS  ========== -->
      <section class="testimonial" id="reviews">
          <div class="testimonial-inner">
              <div class="testimonial-wrap  wow fadeInLeft">
