@@ -42,7 +42,7 @@
          <div class="category-wrap">
              <div class="category-inner">
                  <div class="category-item wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">
-                     <img src="assets/img/category/13.jpg" alt="Image">
+                     <img src="assets/img/category/06.jpg" alt="Image">
                      <div class="category-content">
                          <h4 class="category-title"><a href="#contact">Caballeros</a> </h4>
                      </div>
@@ -60,7 +60,7 @@
                      </div>
                  </div>
                  <div class="category-item wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1000ms">
-                     <img src="assets/img/category/11.webp" alt="Image">
+                     <img src="assets/img/category/13.jpg" alt="Image">
                      <div class="category-content">
                          <h4 class="category-title"><a href="#contact">Juveniles</a> </h4>
                      </div>
@@ -538,7 +538,7 @@
 
              </div>
              <div class="testimonial-wrap  wow fadeInRight">
-                 <img src="assets/img/testimonial/02.webp" alt="Image" class="img-testomonial">
+                 <img src="assets/img/testimonial/02.jpg" alt="Image" class="img-testomonial">
              </div>
          </div>
      </section>

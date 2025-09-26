@@ -42,7 +42,7 @@
         <ul class="bottom-menu">
             <li class="menu-item">
                 <div class="coppy-right">
-                    Copyright © 2024 California Zap´s.Desarrollado por <a
+                    Copyright © 2024 California Zap´s. Desarrollado por <a
                         href="https://bananagroup.mx"> Banana Group Marketing</a>
                 </div>
             </li>
