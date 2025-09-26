@@ -476,6 +476,15 @@
               </div>
               <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=23.113305,-109.71417" target="_blank" rel="noopener">Abrir en Google Maps</a>
             </div>
+
+             <div class="branch-card">
+              <h5 class="mb-2">California Zap’s — San José Viejo (SJC)</h5>
+              <div class="map-embed">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1834.779312367002!2d-109.71381563416793!3d23.11324783933393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1758917269670!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+              <a class="button color-2 mt-2" href="https://www.google.com/maps?ll=23.113305,-109.71417" target="_blank" rel="noopener">Abrir en Google Maps</a>
+            </div>
+
           </div>
         </div>
       </div>
@@ -486,6 +495,7 @@
  </div>
      </section>
 
+     
         <!--  ========== SECCIÓN TESTIMONIOS ==========  -->
      <section class="testimonial" id="reviews">
          <div class="testimonial-inner">
