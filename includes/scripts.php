@@ -1,14 +1,16 @@
 <a id="scroll-top"></a>
 <!-- Javascript -->
 <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/countdown.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<script src="assets/js/swiper-bundle.min.js"></script>
-<script src="assets/js/swiper.js"></script>
-<script type="text/javascript" src="assets/js/shortcodes.js"></script>
-<script type="text/javascript" src="assets/js/main.js"></script>
+<script src="./assets/js/jquery.min.js"></script>
+<script src="./assets/js/wow.min.js"></script>
+<script src="./assets/js/countdown.js"></script>
+<script src="./assets/js/jquery.magnific-popup.min.js"></script>
+<script src="./assets/js/swiper-bundle.min.js"></script>
+<script src="./assets/js/swiper.js"></script>
+<script type="text/javascript" src="./assets/js/shortcodes.js"></script>
+<script type="text/javascript" src="./assets/js/main.js"></script>
+
+
 
 <script>
     $(document).ready(function() {
@@ -31,3 +33,6 @@
 	});
 });
 </script>
+
+
+

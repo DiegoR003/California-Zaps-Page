@@ -10,10 +10,18 @@
     <meta name="description"
         content="Sumérgete en un ambiente moderno y acogedor, donde nuestros estantes exhiben una cuidadosa selección de zapatos para cada ocasión y estilo de vida.">
 
+         <!-- base dinámico en PHP -->
+  <?php
+    $base = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/\\') . '/';
+    echo '<base href="' . $base . '">';
+  ?>
+  <!-- o base fijo en local -->
+  <base href="/California-Zaps-Page/"> 
+
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet"  href="assets/css/magnific-popup.css">
 
     <!-- Favicon and Touch Icons  -->
     <link rel="shortcut icon" href="assets/icon/01.jpg">
@@ -24,5 +32,7 @@
     
     <!-- captcha -->
      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+      
 
 </head>

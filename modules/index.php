@@ -1,3 +1,6 @@
+
+
+
 <!-- Main Content -->
  <div id="main-content" class="site-main clearfix" id="home">
     
@@ -8,9 +11,9 @@
                  <div class="swiper-wrapper">
                      <div class="swiper-slide">
                          <div class="swiper-content">
-                             <h1 style="color: #fff;" class="caption">California</h1>
-                             <h1 style="color: #fff;" class="heading"> Zaps</h1>
-                             <p>Regreso a clases • Zapatos y tenis escolares</p>
+                             <h1 style="color: #fff;" class="caption">Regreso </h1>
+                             <h1 style="color: #fff;" class="heading">A</h1>
+                             <p>Clases</p>
                          </div>
                      </div>
                      <div class="swiper-slide">
@@ -550,3 +553,95 @@
 
 
  </div><!-- /#main-content -->
+
+
+
+ <!-- /#Implemente este codigo por que no cargaban desde las rutas de las carpetas -->
+
+<!-- Swiper JS  -->
+<script src="assets/js/swiper-bundle.min.js"></script>
+
+<!-- Inicialización del slider y animación de letras -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Init del carrusel principal
+    const hero = new Swiper('.slider-slider', {
+      loop: true,
+      speed: 900,
+      autoplay: { delay: 4200, disableOnInteraction: false },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev'
+      },
+      pagination: {
+        el: '.swiper-pagination-slider',
+        clickable: true
+      },
+      
+      on: {
+        slideChangeTransitionStart() {
+      
+          document.querySelectorAll('.swiper-slide .swiper-content').forEach(el => {
+            el.classList.remove('is-animating');
+          });
+        },
+        slideChangeTransitionEnd() {
+          const active = document.querySelector('.swiper-slide-active .swiper-content');
+          if (active) active.classList.add('is-animating');
+        }
+      }
+    });
+
+    // Dispara animación en la primera carga
+    const first = document.querySelector('.swiper-slide-active .swiper-content');
+    if (first) first.classList.add('is-animating');
+  });
+</script>
+
+<script src="assets/js/wow.min.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+   
+    new WOW({
+      boxClass:     'wow',
+      animateClass: 'animated',
+      offset:       80,      
+      mobile:       true,    
+      live:         true     
+    }).init();
+  });
+</script>
+
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+<script>
+  // Inicializa la galería cuando el DOM esté listo
+  jQuery(function ($) {
+    // Verificación rápida en consola: debería mostrar "ok"
+    if (!$.fn.magnificPopup) { console.warn('Magnific Popup NO cargó'); return; }
+
+    $('.popup-gallery').magnificPopup({
+      delegate: 'a',             // escucha clicks en <a> dentro de .popup-gallery
+      type: 'image',
+      mainClass: 'mfp-fade',     // animación bonita
+      removalDelay: 200,
+      fixedContentPos: true,
+      closeOnContentClick: false,
+      closeBtnInside: true,
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0,1],          // pre-carga la anterior y siguiente
+        tCounter: '%curr% of %total%' // "x of N"
+      },
+      image: {
+        titleSrc: function(item) {
+          // Muestra el title y un “Créditos” como en tu captura
+          return (item.el.attr('title') || '') + '<br><small>California Zap´s</small>';
+        }
+      }
+    });
+  });
+</script>

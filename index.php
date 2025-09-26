@@ -14,6 +14,7 @@ if (isset($_GET)) {
                 include("includes/header.php");
                 include("modules/index.php");
                 include("includes/footer.php");
+                
             ?>
         </div>
     </div>
