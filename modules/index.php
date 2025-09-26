@@ -24,7 +24,7 @@
                      </div>
                      <div class="swiper-slide">
                          <div class="swiper-content">
-                             <h1 class="caption" style="color: #fff;">Los mejores</h1>
+                             <h1 class="caption" style="color: #fff;">Los Mejores</h1>
                              <h1 class="heading" style="color: #fff;">Calzados </h1>
                          </div>
                      </div>
@@ -395,7 +395,7 @@
       <div class="tab-pane fade show active" id="pane-csl" role="tabpanel" aria-labelledby="tab-csl">
         <div class="row g-4">
           <div class="col-12 col-md-6">
-            <div class="branch-card">
+            <div class="branch-card wow fadeInRight">
               <h5 class="mb-2">California Zap’s — (CSL)</h5>
               <div class="map-embed">
                 <iframe
@@ -408,8 +408,8 @@
           </div>
 
           <div class="col-12 col-md-6">
-            <div class="branch-card">
-              <h5 class="mb-2">California Zap’s | Centro CSL</h5>
+            <div class="branch-card wow fadeInRight">
+              <h5 class="mb-2">California Zap’s | Centro (CSL)</h5>
               <div class="map-embed">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5198.157841201511!2d-109.91395373169914!3d22.889285982253092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b73d25cd461%3A0xfb4989b05a321d50!2sCalifornia%20Zap&#39;s%20%7C%20Centro%20CSL!5e0!3m2!1ses!2smx!4v1712361930892!5m2!1ses!2smx"
@@ -421,7 +421,7 @@
           </div>
 
           <div class="col-12 col-md-6">
-            <div class="branch-card">
+            <div class="branch-card wow fadeInLeft">
               <h5 class="mb-2">California Zap’s — Plaza Caribe (CSL)</h5>
               <div class="map-embed">
                 <iframe
@@ -435,7 +435,7 @@
 
           <div class="col-12 col-md-6">
             <div class="branch-card">
-              <h5 class="mb-2">California Zaps — (CSL)</h5>
+              <h5 class="mb-2">California Zap’s — (CSL)</h5>
               <div class="map-embed">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2185.3367072835927!2d-109.93548935280538!3d22.902907951876273!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a64558c2d5b%3A0x2907765be0358010!2sCalifornia%20Zaps!5e0!3m2!1ses!2smx!4v1712362035352!5m2!1ses!2smx"
@@ -454,7 +454,7 @@
         <div class="row g-4">
           <div class="col-12 col-md-6">
             <div class="branch-card">
-              <h5 class="mb-2">California Zap’s — (SJC)</h5>
+              <h5 class="mb-2">California Zap’s — Guaymitas (SJC)</h5>
               <div class="map-embed">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d917.6390648115804!2d-109.70511523952555!3d23.07672448144926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2smx!4v1712362115690!5m2!1sen!2smx"
@@ -467,10 +467,10 @@
 
           <div class="col-12 col-md-6">
             <div class="branch-card">
-              <h5 class="mb-2">California Zap’s — (SJC)</h5>
+              <h5 class="mb-2">California Zap’s — Centro (SJC)</h5>
               <div class="map-embed">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4517.036311619557!2d-109.70054425698133!3d23.060892700000018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d309b6ea5%3A0x17681faef181c793!2sCalifornia%20Zap%C2%B4s%20%7C%20C.%20Manuel%20Doblado!5e1!3m2!1ses-419!2smx!4v1758756897319!5m2!1ses-419!2smx"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.988241123116!2d-109.7015881249069!3d23.060892679146832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d309b6ea5%3A0x17681faef181c793!2sCalifornia%20Zap%C2%B4s%20%7C%20C.%20Manuel%20Doblado!5e0!3m2!1ses-419!2smx!4v1758900861804!5m2!1ses-419!2smx"
                   width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
                   referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
@@ -479,6 +479,8 @@
           </div>
         </div>
       </div>
+
+
 
      
       </div>
@@ -554,9 +556,12 @@
 
  </div><!-- /#main-content -->
 
+  
 
 
  <!-- /#Implemente este codigo por que no cargaban desde las rutas de las carpetas -->
+
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 <!-- Swiper JS  -->
 <script src="assets/js/swiper-bundle.min.js"></script>
