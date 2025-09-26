@@ -538,7 +538,7 @@
 
              </div>
              <div class="testimonial-wrap  wow fadeInRight">
-                 <img src="assets/img/testimonial/02.jpg" alt="Image" class="img-testomonial">
+                 <img src="assets/img/testimonial/02.webp" alt="Image" class="img-testomonial" >
              </div>
          </div>
      </section>
